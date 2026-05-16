@@ -12,6 +12,10 @@
 
 ---
 
+<img width="391" height="227" alt="image" src="https://github.com/user-attachments/assets/79c591de-98d0-4c78-b8e4-c29e3588a1e9" />
+
+---
+
 ## 1. Why 2-Stage?
 
 온라인 카드 거래 사기 탐지는 **두 개의 상반된 제약**과 동시에 싸워야 합니다.
